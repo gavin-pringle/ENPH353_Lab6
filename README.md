@@ -1,4 +1,4 @@
-*The follow README.md was written by ENPH 353 Instructor Miti Isbasesu*
+*The following README.md was written by ENPH 353 Instructor Miti Isbasesu*
 
 # An OpenAI gym extension for using Gazebo known as `gym-gazebo`
 
